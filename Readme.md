@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Vitalii Zbroi](https://up.htmlacademy.ru/htmlcss/28/user/862439).
-* Наставник: [Дмитрий Казанцев](https://htmlacademy.ru/profile/id24186).
+* Наставник: `Неизвестно`.
 
 ---
 
